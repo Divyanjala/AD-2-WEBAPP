@@ -97,6 +97,22 @@
       "PackagePath": "staticwebassets\\home\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
+      "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\banner1.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\banner2.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\banner3.webp",
+      "PackagePath": "staticwebassets\\home\\img\\banner3.webp"
+    },
+    {
+      "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\banner4.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\banner4.jpg"
+    },
+    {
       "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\brand1.png",
       "PackagePath": "staticwebassets\\home\\img\\brand1.png"
     },
@@ -125,16 +141,28 @@
       "PackagePath": "staticwebassets\\home\\img\\crossword.png"
     },
     {
-      "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\h4-slide.png",
-      "PackagePath": "staticwebassets\\home\\img\\h4-slide.png"
+      "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\h4-slide.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\h4-slide.jpg"
     },
     {
       "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\h4-slide2.png",
       "PackagePath": "staticwebassets\\home\\img\\h4-slide2.png"
     },
     {
+      "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\h4-slide3(1).jpg",
+      "PackagePath": "staticwebassets\\home\\img\\h4-slide3(1).jpg"
+    },
+    {
+      "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\h4-slide3.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\h4-slide3.jpg"
+    },
+    {
       "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\h4-slide3.png",
       "PackagePath": "staticwebassets\\home\\img\\h4-slide3.png"
+    },
+    {
+      "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\h4-slide4.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\h4-slide4.jpg"
     },
     {
       "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\h4-slide4.png",
@@ -143,6 +171,10 @@
     {
       "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\h4-slide7.png",
       "PackagePath": "staticwebassets\\home\\img\\h4-slide7.png"
+    },
+    {
+      "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\logo-new.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\logo-new.jpg"
     },
     {
       "Id": "D:\\ESOFT\\AD 2\\AD-2-WEBAPP\\wwwroot\\home\\img\\logo.png",
